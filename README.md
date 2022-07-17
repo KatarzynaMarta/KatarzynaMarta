@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatarzynaMarta
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# Python VBA
+- 🌱 I’m currently learning C C# Python VBA
 - 💞️ I’m looking to collaborate on anything to help me learn
 - 📫 How to reach me katarzyna.marta.kuich@gmail.com
 
